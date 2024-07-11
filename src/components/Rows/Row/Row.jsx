@@ -15,7 +15,7 @@ const Row = ({ title, fetchUrl, isLargeRow }) => {
       try {
         // console.log(fetchUrl);
         const request = await axios.get(fetchUrl);
-        console.log(request);
+        // console.log(request);
         setMovie(request.data.results);
       } catch (error) {
         console.log("error", error);
