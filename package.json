@@ -1,5 +1,5 @@
 {
-  "homepage": "https://eyo-as.github.io/netflix-clone",
+  "homepage": "https://eyo-as.github.io/Netflix-Clone",
   "name": "netflix-clone",
   "private": true,
   "version": "0.0.0",
@@ -33,8 +33,8 @@
     "eslint-plugin-react": "^7.34.2",
     "eslint-plugin-react-hooks": "^4.6.2",
     "eslint-plugin-react-refresh": "^0.4.7",
-    "gh-pages": "^6.1.1",
     "github-pages": "^3.0.2",
+    "gh-pages": "^6.1.1",
     "vite": "^5.3.1"
   }
 }
